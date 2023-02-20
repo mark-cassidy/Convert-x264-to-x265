@@ -5,3 +5,4 @@ Script tested and used on Windows 10
 
 You will need to download and install ffmpeg to c:\ffmpeg\
 
+variable "basepath" is the working directory
